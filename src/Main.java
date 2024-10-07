@@ -61,5 +61,7 @@ public class Main {
         System.out.println(" Если в компании работает: "+ employeeCount +" то можно разделить " + newTimePerDay + " между сотрудниками");
 
 
+
+
     }
 }
